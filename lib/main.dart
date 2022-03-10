@@ -1,5 +1,10 @@
 import 'package:flutter/material.dart';
-import 'Screens/home.dart';
+import 'package:leadeetuto/Screens/guest.dart';
+import 'package:leadeetuto/Screens/guest/Password.dart';
+import 'package:leadeetuto/Screens/guest/Auth.dart';
+import 'package:leadeetuto/Screens/guest/Term.dart';
+
+
 
 void main() {
   runApp(const App());
@@ -12,7 +17,8 @@ class App extends StatelessWidget {
   Widget build(BuildContext context) {
     return const MaterialApp(
       debugShowCheckedModeBanner: false,
-      home: Home(),
+      title: 'Leadee',
+      home: GuestScreen(),
     );
   }
 }
