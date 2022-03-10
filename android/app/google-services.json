@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "480331162579",
+    "project_id": "leadee-tuto-flutter",
+    "storage_bucket": "leadee-tuto-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480331162579:android:a8a5fff4cfca28bfbb0526",
+        "android_client_info": {
+          "package_name": "com.fluttertuto.leadee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "480331162579-bvrvo0lla648ecneb3lffl9gn4sifm6e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fluttertuto.leadee",
+            "certificate_hash": "00b99df3b54340ac28b6f57d4c638739746aeb0e"
+          }
+        },
+        {
+          "client_id": "480331162579-p4e5ibjmpp0o62aejqm7sv02k4b0dt74.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZHdrseCyO4B5VV0lt6V763ImSVGSwTyA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "480331162579-p4e5ibjmpp0o62aejqm7sv02k4b0dt74.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
